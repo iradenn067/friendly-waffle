@@ -1,0 +1,9 @@
+.outer {
+  max-width: 850px !important;
+  margin: 0 auto !important;
+}
+
+
+a {
+  color: blue !important;
+}
